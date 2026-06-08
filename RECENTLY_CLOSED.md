@@ -1,12 +1,12 @@
 # 🧩 Issues cerrados recientemente
 
-> _Última actualización: **25 de mayo de 2026 a las 07:21 a. m.**_
+> _Última actualización: **8 de junio de 2026 a las 08:10 a. m.**_
 
 ---
 
 No hay issues cerrados recientemente.
 
-> 🔍 [Ver todos los issues](https://github.com/xaca/coding_with_friends/issues)
+> 🔍 [Ver todos los issues](https://github.com/4rg3n15/Coding_With_Friends_Argenis/issues)
 
 ---
 
